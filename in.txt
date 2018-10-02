@@ -1,0 +1,6 @@
+5
+Asan Asanov 30 300000 Almaty
+Ivan Ivanov 35 290000 Astana
+Irina Kim 29 500000 Astana
+Rick San 40 200000 Uralsk
+John Kal 35 120000 Karagnda
